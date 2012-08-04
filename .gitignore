@@ -1,5 +1,10 @@
 *.py[co]
 
+# Sublime stuff
+Settings
+Backup
+*.cache
+
 # Packages
 *.egg
 *.egg-info

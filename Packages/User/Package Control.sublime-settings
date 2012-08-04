@@ -1,0 +1,9 @@
+{
+	"auto_upgrade_last_run": 1343585465,
+	"installed_packages":
+	[
+		"Jade",
+		"Package Control",
+		"SublimeLinter"
+	]
+}
